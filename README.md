@@ -88,19 +88,10 @@ Spotify secures its API endpoints and user accounts with standard protocols.
 | **JWT Tokens**        | Token-based authentication for user sessions                     |
 | **REST API**          | Interface for apps to access music data, playlists, and profiles |
 
----
-
- Deployment & Infrastructure
-
-While not fully detailed in this repo, Spotify relies on:
-
-- **Kubernetes & Docker**: Containerized microservices deployment  
-- **Google Cloud Platform (GCP)**: Scalable cloud hosting  
-- **Load Balancers & CDNs**: High availability and global distribution  
 
 
 
- Key Takeaways
+
 
 - Spotify balances **performance, scalability, and reliability** with a hybrid stack of frontend, backend, and streaming tools  
 - The use of **microservices, Kafka, and Cassandra** allows Spotify to serve millions of concurrent streams  
