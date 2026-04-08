@@ -104,14 +104,5 @@ While not fully detailed in this repo, Spotify relies on:
 
 - Spotify balances **performance, scalability, and reliability** with a hybrid stack of frontend, backend, and streaming tools  
 - The use of **microservices, Kafka, and Cassandra** allows Spotify to serve millions of concurrent streams  
-- Frontend technologies like React and React Native ensure **fast, interactive experiences across platforms**
-
----
-
-## 📚 References
-
-- [Official Spotify Engineering Blog](https://engineering.atspotify.com)  
-- [Spotify Tech Stack Overview - GitHub](https://github.com/hossslgs-cyber/SPOTIFY-TECH-STACK)  
-- [Spotify on StackShare](https://stackshare.io/spotify/spotify)  
-
+- Frontend technologies like React and React Native ensure **fast, interactive experiences across platforms*
 
