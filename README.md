@@ -4,7 +4,7 @@ A detailed overview of the technologies that power **Spotify**, one of the world
 
 ---
 
-## 📌 Overview
+ Overview
 
 Spotify is a complex, high-performance platform serving **millions of users globally**. To handle streaming, data analytics, and real-time interactions, Spotify leverages a combination of modern web technologies, scalable backend systems, and robust databases.
 
@@ -12,7 +12,7 @@ This repository breaks down the tech stack used in Spotify and provides insight 
 
 ---
 
-## 🖥 Frontend
+ Frontend
 
 Spotify’s frontend focuses on providing a **smooth, interactive user experience** on web and mobile.
 
@@ -30,7 +30,7 @@ Spotify’s frontend focuses on providing a **smooth, interactive user experienc
 
 ---
 
-## ⚙️ Backend
+ Backend
 
 Spotify’s backend ensures **scalability, performance, and reliability** for millions of concurrent users.
 
@@ -47,7 +47,7 @@ Spotify’s backend ensures **scalability, performance, and reliability** for mi
 
 ---
 
-## 🗄️ Databases
+ Databases
 
 Spotify uses a combination of **NoSQL and SQL databases** to handle massive volumes of data.
 
@@ -63,7 +63,7 @@ Spotify uses a combination of **NoSQL and SQL databases** to handle massive volu
 
 ---
 
-## 📡 Streaming & Messaging
+ Streaming & Messaging
 
 Real-time events and music streaming require high-throughput, low-latency pipelines.
 
@@ -78,7 +78,7 @@ Real-time events and music streaming require high-throughput, low-latency pipeli
 
 ---
 
-## 🔐 API & Authentication
+ API & Authentication
 
 Spotify secures its API endpoints and user accounts with standard protocols.
 
@@ -90,7 +90,7 @@ Spotify secures its API endpoints and user accounts with standard protocols.
 
 ---
 
-## ☁️ Deployment & Infrastructure
+ Deployment & Infrastructure
 
 While not fully detailed in this repo, Spotify relies on:
 
@@ -98,9 +98,9 @@ While not fully detailed in this repo, Spotify relies on:
 - **Google Cloud Platform (GCP)**: Scalable cloud hosting  
 - **Load Balancers & CDNs**: High availability and global distribution  
 
----
 
-## 💡 Key Takeaways
+
+ Key Takeaways
 
 - Spotify balances **performance, scalability, and reliability** with a hybrid stack of frontend, backend, and streaming tools  
 - The use of **microservices, Kafka, and Cassandra** allows Spotify to serve millions of concurrent streams  
@@ -114,9 +114,4 @@ While not fully detailed in this repo, Spotify relies on:
 - [Spotify Tech Stack Overview - GitHub](https://github.com/hossslgs-cyber/SPOTIFY-TECH-STACK)  
 - [Spotify on StackShare](https://stackshare.io/spotify/spotify)  
 
----
 
-## 🔗 License
-
-This project is for **educational purposes** and analysis of public tech stacks.  
-Use responsibly and do not claim as proprietary work.
