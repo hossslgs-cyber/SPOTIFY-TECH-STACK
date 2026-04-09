@@ -1,7 +1,6 @@
 # Spotify Tech Stack
 
-## Overview
-Spotify uses modern tools for music streaming.
+## Analysis of Spotify's tech stack, including frontend, backend, database, and streaming tools, with explanations of why each technology is used."
 
 ## Tech Stack
 - **Frontend**: React, React Native
